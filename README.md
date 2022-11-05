@@ -14,3 +14,5 @@ Structure of the CTI$_i$ module ($i=1,2$). (a) and (c) are conditional translati
 
 ![HFCM](https://raw.githubusercontent.com/sysuhuangwenmin/InterGAN/main/images/HFCM.png)
 Comparison on the proposed InterGAN with and without HFCM. (a) Input image. (b) Reconstruction image of InterGAN without HFCM; (c) Difference between (a) and (b);  (d) Difference between the input image and the reconstruction images with InterGAN.
+
+## Main result
