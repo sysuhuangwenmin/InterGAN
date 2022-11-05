@@ -18,4 +18,4 @@ This is the project site of Interactive Generative Adversarial Networks with Hig
 ![HFCM](https://raw.githubusercontent.com/sysuhuangwenmin/InterGAN/main/images/HFCM.png)
 
 
-## Main result
+## Main results
